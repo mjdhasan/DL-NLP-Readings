@@ -2,6 +2,12 @@
 
 > Including **Part-of-Speech (POS) Tagging**, **Chunking**, **Named Entity Recognition (NER)**, **Semantic Role Labeling (SRL)**, **Punctuation Restoration**, **Sentence Segmentation**, **Dependency Parsing**, **Relation Extraction**, **Entity Linking**, **Discourse Relation** and etc.
 
+## Datasets
+- [2002 CoNLL] **Introduction to the CoNLL-2002 Shared Task: Language-Independent Named Entity Recognition**, [[paper]](http://www.aclweb.org/anthology/W02-2024), [[bibtex]](/Bibtex/Introduction%20to%20the%20CoNLL-2002%20Shared%20Task%20--%20Language-Independent%20Named%20Entity%20Recognition.bib), [[dataset]](https://www.clips.uantwerpen.be/conll2002/ner/).
+- [2003 CoNLL] **Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition**, [[paper]](http://www.aclweb.org/anthology/W03-0419), [[bibtex]](/Bibtex/Introduction%20to%20the%20CoNLL-2003%20Shared%20Task%20--%20Language-Independent%20Named%20Entity%20Recognition.bib), [[dataset]](https://www.clips.uantwerpen.be/conll2003/ner/).
+- [2017 CoNLL] **CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies**, [[paper]](http://aclweb.org/anthology/K17-3), [[bibtex]](/Bibtex/CoNLL%202017%20Shared%20Task%20--%20Multilingual%20Parsing%20from%20Raw%20Text%20to%20Universal%20Dependencies.bib), [[homepage]](https://aclweb.org/portal/content/conll-2017-shared-task-multilingual-parsing-raw-text-universal-dependencies).
+- [2017 ACL] **Cross-lingual Name Tagging and Linking for 282 Languages**, [[paper]](http://aclweb.org/anthology/P17-1178), [[bibtex]](/Bibtex/Cross-lingual%20Name%20Tagging%20and%20Linking%20for%20282%20Languages.bib), [[homepage]](http://nlp.cs.rpi.edu/wikiann/).
+
 ## Part-of-Speech (POS) Tagging and Named Entity Recognition (NER)
 - [2010 ACL]  **On Jointly Recognizing and Aligning Bilingual Named Entities**, [[paper]](http://www.aclweb.org/anthology/P10-1065), [[bibtex]](/Bibtex/On%20Jointly%20Recognizing%20and%20Aligning%20Bilingual%20Named%20Entities.bib).
 - [2012 CIKM] **Joint Bilingual Name Tagging for Parallel Corpora**, [[paper]](http://delivery.acm.org/10.1145/2400000/2398506/p1727-li.pdf?ip=192.122.131.53&id=2398506&acc=ACTIVE%20SERVICE&key=FF6731C4D3E3CFFF%2E93CCAFF1814A016F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1536722282_8c78abdf99e21a2f02b23c5463fe91b7), [[bibtex]](/Bibtex/Joint%20Bilingual%20Name%20Tagging%20for%20Parallel%20Corpora.bib).
