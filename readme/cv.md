@@ -1,6 +1,5 @@
 # Computer Vision
 
-> Including **Classification**, **Recognition**, **Detection** and etc.
 
 ## Datasets
 - [2018 CVPR] **Referring Relationships**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Krishna_Referring_Relationships_CVPR_2018_paper.pdf), [[bibtex]](/Bibtex/Referring%20Relationships.bib), [[homepage]](https://cs.stanford.edu/people/ranjaykrishna/referringrelationships/), sources: [[StanfordVL/ReferringRelationships]](https://github.com/StanfordVL/ReferringRelationships).
@@ -39,6 +38,9 @@
 - [2016 CVPR] **End-to-end Learning of Action Detection from Frame Glimpses in Videos**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yeung_End-To-End_Learning_of_CVPR_2016_paper.pdf), sources: [[syyeung/frameglimpses]](https://github.com/syyeung/frameglimpses).
 - [2017 PAMI] **Action Recognition with Dynamic Image Networks**, [[paper]](http://homepages.inf.ed.ac.uk/hbilen/assets/pdf/Bilen17a.pdf), [[bibtex]](/Bibtex/Action%20Recognition%20with%20Dynamic%20Image%20Networks.bib), sources: [[hbilen/dynamic-image-nets]](https://github.com/hbilen/dynamic-image-nets).
 - [2017 CVPR] **SST: Single-Stream Temporal Action Proposals**, [[paper]](http://vision.stanford.edu/pdf/buch2017cvpr.pdf), [[bibtex]](/Bibtex/SST%20-%20Single-Stream%20Temporal%20Action%20Proposals.bib), sources: [[shyamal-b/sst]](https://github.com/shyamal-b/sst/).
+
+## Visual Representation Learning
+
 
 ## Multi-tasks and Multi-model
 - [2018 ICLR] **Beyond Shared Hierarchies: Deep Multitask Learning Through Soft Layer Ordering**, [[paper]](https://openreview.net/pdf?id=BkXmYfbAZ), [[bibtex]](/Bibtex/Beyond%20Shared%20Hierarchies%20-%20Deep%20Multitask%20Learning%20Through%20Soft%20Layer%20Ordering.bib).
