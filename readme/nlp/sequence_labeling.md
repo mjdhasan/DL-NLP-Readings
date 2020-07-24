@@ -69,6 +69,7 @@
 - [2019 ArXiv] **A Unified MRC Framework for Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1910.11476.pdf), [[bibtex]](/Bibtex/A%20Unified%20MRC%20Framework%20for%20Named%20Entity%20Recognition.bib).
 - [2019 ArXiv] **Back Attention Knowledge Transfer for Low-resource Named Entity Recognition**, [[paper]](https://arxiv.org/pdf/1906.01183.pdf), [[bibtex]](/Bibtex/Back%20Attention%20Knowledge%20Transfer%20for%20Low-resource%20Named%20Entity%20Recognition.bib).
 - [2019 NeurIPS] **A Primal-Dual Formulation for Deep Learning with Constraints**, [[paper]](http://papers.nips.cc/paper/9385-a-primal-dual-formulation-for-deep-learning-with-constraints.pdf), [[bibtex]](/Bibtex/A%20Primal-Dual%20Formulation%20for%20Deep%20Learning%20with%20Constraints.bib), [[homepage]](http://papers.nips.cc/paper/9385-a-primal-dual-formulation-for-deep-learning-with-constraints), sources: [[dair-iitd/dl-with-constraints]](https://github.com/dair-iitd/dl-with-constraints).
+- [2020 ACL] **Improving Multimodal Named Entity Recognition via Entity Span Detection with Unified Multimodal Transformer**, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.306.pdf), [[bibtex]](https://www.aclweb.org/anthology/2020.acl-main.306.bib).
 
 ## Semantic Role Labeling (SRL)
 - [2015 ACL] **End-to-end Learning of Semantic Role Labeling using Recurrent Neural Networks**, [[paper]](http://www.aclweb.org/anthology/P15-1109), [[bibtex]](/Bibtex/End-to-end%20Learning%20of%20Semantic%20Role%20Labeling%20using%20Recurrent%20Neural%20Networks.bib) sources: [[sanjaymeena/semantic_role_labeling_deep_learning]](https://github.com/sanjaymeena/semantic_role_labeling_deep_learning), [[hiroki13/neural-semantic-role-labeler]](https://github.com/hiroki13/neural-semantic-role-labeler).
@@ -101,3 +102,6 @@
 
 ## Discourse Relation
 - [2018 NAACL] **Improving Implicit Discourse Relation Classification by Modeling Inter-dependencies of Discourse Units in a Paragraph**, [[paper]](http://www.aclweb.org/anthology/N18-1013), [[bibtex]](/Bibtex/Improving%20Implicit%20Discourse%20Relation%20Classification%20by%20Modeling%20Inter-dependencies%29of%20Discourse%20Units%20in%20a%20Paragraph.bib), sources: [[ZeyuDai/paragraph_implicit_discourse_relations]](https://github.com/ZeyuDai/paragraph_implicit_discourse_relations).
+
+## Coreference Resolution
+- [2020 ACL] **CorefQA: Coreference Resolution as Query-based Span Prediction**, [[paper]](https://www.aclweb.org/anthology/2020.acl-main.622.pdf), [[bibtex]](https://www.aclweb.org/anthology/2020.acl-main.622.bib), sources: [[ShannonAI/CorefQA]](https://github.com/ShannonAI/CorefQA).

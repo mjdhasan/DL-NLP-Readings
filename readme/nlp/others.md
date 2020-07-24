@@ -42,7 +42,6 @@
 - [2019 ArXiv] **Single Headed Attention RNN: Stop Thinking With Your Head**, [[paper]](https://arxiv.org/pdf/1911.11423.pdf), [[bibtex]](/Bibtex/Single%20Headed%20Attention%20RNN%20-%20Stop%20Thinking%20With%20Your%20Head.bib), sources: [[Smerity/sha-rnn]](https://github.com/Smerity/sha-rnn).
 
 ## Others
-- [2017 ICLR] **An Actor Critic Algorithm for Structured Prediction**, [[paper]](https://openreview.net/pdf?id=SJDaqqveg), [[bibtex]](/Bibtex/An%20Actor%20Critic%20Algorithm%20for%20Structured%20Prediction.bib), sources: [[rizar/actor-critic-public]](https://github.com/rizar/actor-critic-public).
 - [2018 ArXiv] **Fast Directional Self-Attention Mechanism**, [[paper]](https://arxiv.org/pdf/1805.00912.pdf), [[bibtex]](/Bibtex/Fast%20Directional%20Self-Attention%20Mechanism.bib), sources: [[taoshen58/Fast-DiSA]](https://github.com/taoshen58/DiSAN/tree/master/Fast-DiSA).
 - [2019 NAACL] **Attention is not Explanation**, [[paper]](https://www.aclweb.org/anthology/N19-1357.pdf), [[bibtex]](/Bibtex/Attention%20is%20not%20Explanation.bib), sources: [[successar/AttentionExplanation]](https://github.com/successar/AttentionExplanation).
 - [2019 EMNLP] **Attention is not not Explanation**, [[paper]](https://arxiv.org/pdf/1908.04626.pdf), [[bibtex]](/Bibtex/Attention%20is%20not%20not%20Explanation.bib), sources: [[sarahwie/attention]](https://github.com/sarahwie/attention).
