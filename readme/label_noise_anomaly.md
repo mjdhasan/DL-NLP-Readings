@@ -1,6 +1,7 @@
 # Label Noise and Anomaly Detection
 
 ## Learning on Noisy/Corrupted/Imbalanced Labels
+- GitHub resources: [[subeeshvasu/Awesome-Learning-with-Label-Noise]](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise).
 - [2017 ICCV] **Learning from Noisy Labels with Distillation**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_Learning_From_Noisy_ICCV_2017_paper.pdf), [[bibtex]](/Bibtex/Learning%20from%20Noisy%20Labels%20with%20Distillation.bib), sources: [[raingo/yfcc100m-entity]](https://github.com/raingo/yfcc100m-entity).
 - [2017 ICML] **A Closer Look at Memorization in Deep Networks**, [[paper]](http://proceedings.mlr.press/v70/arpit17a/arpit17a.pdf), [[bibtex]](/Bibtex/A%20Closer%20Look%20at%20Memorization%20in%20Deep%20Networks.bib).
 - [2017 ICLR] **Training Deep Neural-networks Using a Noise Adaptation Layer**, [[paper]](https://openreview.net/pdf?id=H12GRgcxg), [[bibtex]](/Bibtex/Training%20Deep%20Neural-networks%20Using%20a%20Noise%20Adaptation%20Layer.bib), sources: [[udibr/noisy_labels]](https://github.com/udibr/noisy_labels).
