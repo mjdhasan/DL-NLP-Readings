@@ -18,7 +18,7 @@
 - **统计学习方法 (李航)**, [[Chinese version book]](http://ddl.escience.cn/f/Iwn0).
 - **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](https://www.wi.hs-wismar.de/~cleve/vorl/projects/dm/ss13/HierarClustern/Literatur/WittenFrank-DM-3rd.pdf).
 
-## Deep Learning for CV and NLP
+## Deep Learning
 - **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://phontron.com/class/nn4nlp2019/).
 - **CS231n: Convolutional Neural Networks for Visual Recognition**, _Stanford University_, [[url]](http://cs231n.stanford.edu).
 - **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/).
@@ -34,6 +34,7 @@
 - **Deep Learning for NLP without Magic**, [[slides]](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf).
 - **A Primer on Neural Network Models for Natural Language Processing**, [[book]](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
 - **GANs in Action**, [[online book]](https://www.manning.com/books/gans-in-action), sources: [[GANs-in-Action/gans-in-action]](https://github.com/GANs-in-Action/gans-in-action).
+- **Deep Learning on Graphs**, [[homepage]](http://cse.msu.edu/~mayao4/dlg_book/), [[all in one]](https://github.com/upadhyayprakash/DeepLearningOnGraphs).
 
 ## Reinforcement Learning
 - **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
