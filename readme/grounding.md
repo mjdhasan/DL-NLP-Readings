@@ -18,7 +18,9 @@
 - [2020 AAAI] **Unified Vision-Language Pre-Training for Image Captioning and VQA**, [[paper]](https://arxiv.org/pdf/1909.11059.pdf), [[bibtex]](/Bibtex/Unified%20Vision-Language%20Pre-Training%20for%20Image%20Captioning%20and%20VQA.bib), sources: [[LuoweiZhou/VLP]](https://github.com/LuoweiZhou/VLP).
 - [2020 ICLR] **VL-BERT: Pre-training of Generic Visual-Linguistic Representations**, [[paper]](https://openreview.net/pdf?id=SygXPaEYvH), [[bibtex]](/Bibtex/VL-BERT%20-%20Pre-training%20of%20Generic%20Visual-Linguistic%20Representations.bib), sources: [[jackroos/VL-BERT]](https://github.com/jackroos/VL-BERT).
 - [2020 ICLR] **Variational Hetero-Encoder Randomized GANs for Joint Image-Text Modeling**, [[paper]](https://openreview.net/pdf?id=H1x5wRVtvS), [[bibtex]](/Bibtex/Variational%20Hetero-Encoder%20Randomized%20GANs%20for%20Joint%20Image-Text%20Modeling.bib).
+- [2020 ECCV] **Oscar: Object-Semantics Aligned Pre-training for Vision-Language Tasks**, [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750120.pdf), [[bibtex]](/Bibtex/Oscar.bib), sources: [[microsoft/Oscar]](https://github.com/microsoft/Oscar).
 - [2020 ArXiv] **Pixel-BERT: Aligning Image Pixels with Text by Deep Multi-Modal Transformers**, [[paper]](https://arxiv.org/pdf/2004.00849.pdf), [[bibtex]](/Bibtex/Pixel-BERT.bib).
+- [2020 ArXiv] **VIVO: Surpassing Human Performance in Novel Object Captioning with Visual Vocabulary Pre-Training**, [[paper]](https://arxiv.org/pdf/2009.13682.pdf), [[bibtex]](/Bibtex/VIVO.bib).
 
 ### Image Retrieval
 - [2019 CVPR] **Deep Supervised Cross-modal Retrieval**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf), [[bibtex]](/Bibtex/Deep%20Supervised%20Cross-modal%20Retrieval.bib).
@@ -87,6 +89,8 @@
 - [2019 ICCV] **VideoBERT: A Joint Model for Video and Language Representation Learning**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sun_VideoBERT_A_Joint_Model_for_Video_and_Language_Representation_Learning_ICCV_2019_paper.pdf), [[bibtex]](/Bibtex/VideoBERT%20-%20A%20Joint%20Model%20for%20Video%20and%20Language%20Representation%20Learning.bib).
 - [2019 ArXiv] **Learning Video Representations Using Contrastive Bidirectional Transformer**, [[paper]](https://arxiv.org/pdf/1906.05743.pdf), [[bibtex]](/Bibtex/Learning%20Video%20Representations%20Using%20Contrastive%20Bidirectional%20Transformer.bib).
 - [2020 CVPR] **End-to-End Learning of Visual Representations from Uncurated Instructional Videos**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.pdf), [[bibtex]](/Bibtex/End-to-End%20Learning%20of%20Visual%20Representations%20from%20Uncurated%20Instructional%20Videos.bib), [[homepage]](https://www.di.ens.fr/willow/research/mil-nce/), sources: [[antoine77340/MIL-NCE_HowTo100M]](https://github.com/antoine77340/MIL-NCE_HowTo100M), [[MIL-NCE TFHub]](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/text_to_video_retrieval_with_s3d_milnce.ipynb#scrollTo=nwv4ZQ4qmak5).
+- [2020 ArXiv] **UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation**, [[paper]](https://arxiv.org/pdf/2002.06353.pdf), [[bibtex]](/Bibtex/UniVL.bib).
+- [2020 ArXiv] **Token-level Contrast for Video and Language Alignment**, [[paper]](https://openreview.net/pdf?id=GRbZ91LKIya), [[bibtex]](/Bibtex/Token-level%20Contrast%20for%20Video%20and%20Language%20Alignment.bib).
 
 ### Video Captioning
 - [2015 ICCV] **Sequence to Sequence: Video to Text**, [[paper]](http://www.cs.utexas.edu/users/ml/papers/venugopalan.iccv15.pdf), [[bibtex]](/Bibtex/Sequence%20to%20Sequence%20–%20Video%20to%20Text.bib), [[homepage]](https://vsubhashini.github.io/s2vt.html), sources: [[vsubhashini/caffe/examples/s2vt]](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt).
@@ -153,6 +157,7 @@
 ### Natural Language Video Localization (Spatio-Temporal Video Grounding)
 - [2019 ACL] **Weakly-Supervised Spatio-Temporally Grounding Natural Sentence in Video**, [[paper]](https://www.aclweb.org/anthology/P19-1183.pdf), [[bibtex]](/Bibtex/Weakly-Supervised%20Spatio-Temporally%20Grounding%20Natural%20Sentence%20in%20Video.bib), [[supplementary]](https://www.aclweb.org/anthology/attachments/P19-1183.Supplementary.pdf), sources: [[JeffCHEN2017/WSSTG]](https://github.com/JeffCHEN2017/WSSTG).
 - [2020 CVPR] **Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences**, [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Where_Does_It_Exist_Spatio-Temporal_Video_Grounding_for_Multi-Form_Sentences_CVPR_2020_paper.pdf), [[bibtex]](/Bibtex/Where%20Does%20It%20Exist.bib), sources: [[Guaranteer/VidSTG-Dataset]](https://github.com/Guaranteer/VidSTG-Dataset).
+- [2020 ArXiv] **Human-centric Spatio-Temporal Video Grounding With Visual Transformers**, [[paper]](https://arxiv.org/pdf/2011.05049.pdf), [[bibtex]](/Bibtex/Human-centric%20Spatio-Temporal%20Video%20Grounding%20With%20Visual%20Transformers.bib), sources: [[tzhhhh123/HC-STVG]](https://github.com/tzhhhh123/HC-STVG).
 
 
 ### Video Question Answering & Reasoning

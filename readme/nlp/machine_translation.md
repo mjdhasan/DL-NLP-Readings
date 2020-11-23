@@ -13,7 +13,8 @@
 - [2017 EMNLP] **Massive Exploration of Neural Machine Translation Architectures**, [[paper]](http://aclweb.org/anthology/D17-1151), [[homepage]](https://google.github.io/seq2seq/), sources: [[google/seq2seq]](https://github.com/google/seq2seq).
 - [2017 EMNLP] **Efficient Attention using a Fixed-Size Memory Representation**, [[paper]](http://aclweb.org/anthology/D17-1040).
 - [2018 AMTA] **Context Models for OOV Word Translation in Low-Resource Language**, [[paper]](https://arxiv.org/pdf/1801.08660.pdf).
-- [2018 NAACL] **Self-Attention with Relative Position Representations**, [[paper]](https://arxiv.org/pdf/1803.02155.pdf).
+- [2018 ACL] **Modeling Localness for Self-Attention Networks**, [[paper]](https://www.aclweb.org/anthology/D18-1475.pdf), [[bibtex]](/Bibtex/Modeling%20Localness%20for%20Self-Attention%20Networks.bib).
+- [2018 NAACL] **Self-Attention with Relative Position Representations**, [[paper]](https://www.aclweb.org/anthology/N18-2074.pdf), [[bibtex]](/Bibtex/Self-Attention%20with%20Relative%20Position%20Representations.bib).
 - [2018 COLING] **Double Path Networks for Sequence to Sequence Learning**, [[paper]](https://arxiv.org/pdf/1806.04856.pdf).
 - [2018 EMNLP] **Meta-Learning for Low-Resource Neural Machine Translation**, [[paper]](https://www.aclweb.org/anthology/D18-1398.pdf), [[bibtex]](/Bibtex/Meta-Learning%20for%20Low-Resource%20Neural%20Machine%20Translation.bib).
 - [2019 NAACL] **Extract and Edit: An Alternative to Back-Translation for Unsupervised Neural Machine Translation**, [[paper]](https://www.aclweb.org/anthology/N19-1120), [[bibtex]](/Bibtex/Extract%20and%20Edit%20-%20An%20Alternative%20to%20Back-Translation%20for%20Unsupervised%20Neural%20Machine%20Translation.bib), sources: [[jiaweiw/Extract-Edit-Unsupervised-NMT]](https://github.com/jiaweiw/Extract-Edit-Unsupervised-NMT).
